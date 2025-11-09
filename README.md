@@ -1,8 +1,8 @@
 # 🚀 SUSTech-OIWiki（DSAA）
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B17)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/SUSTech-OI_wiki-DSAA.svg)](https://github.com/yourusername/SUSTech-OI_wiki-DSAA/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/yourusername/SUSTech-OI_wiki-DSAA.svg?style=social&label=Star)](https://github.com/yourusername/SUSTech-Oi_wiki-DSAA)
+[![Stars](https://img.shields.io/github/stars/yourusername/SUSTech-OI_wiki-DSAA.svg?style=social&label=Star)](https://github.com/TZ-WYmail/SUSTech-OIWiki-DSAA.git)
+![alt text](image.jpg)
 > 📚 自用模板题库
 > 💡 高效、优雅、可复现的C++实现
 ## ✨ 项目特色
@@ -11,7 +11,6 @@
 - ⚡ **高性能实现**：优化的C++17代码，追求极致效率
 - 🧩 **模块化设计**：每个算法独立成文件，即插即用
 - 📝 **详细注释**：中英文注释，思路清晰，易于理解
-- 🧪 **测试完备**：包含大量测试用例，确保正确性
 
 ## 🛠️ 快速开始
 ### 环境要求
